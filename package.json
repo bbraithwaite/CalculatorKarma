@@ -1,0 +1,11 @@
+{
+	"scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.5"
+  }
+}
